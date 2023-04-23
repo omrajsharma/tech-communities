@@ -7,6 +7,6 @@
 <br>
 
 ## Categories
-- [Popular](/Popular/)
-- [Programming](/Programming/)
-- [Opportunities](/Opportunities/)
+- [Popular](/tech-communities/Popular/)
+- [Programming](/tech-communities/Programming/)
+- [Opportunities](/tech-communities/Opportunities/)
